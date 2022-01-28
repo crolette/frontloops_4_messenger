@@ -1,0 +1,10 @@
+# Avoid accidental Sketch/Figma/XD file upload 
+*.sketch
+*.xd
+*.fig
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+
+#Ignore the design directory
+/design
